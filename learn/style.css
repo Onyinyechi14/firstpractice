@@ -1,0 +1,25 @@
+/* tag method */
+a{
+    color: aqua;
+    text-decoration: none;
+    }
+    /* class method */
+    .bag{
+       display: flex;
+       justify-content: space-between;
+    }
+    .bag li{
+       list-style: none;
+    }
+    /* id method */
+     #john{
+       display: flex;
+       justify-content: space-between;
+     }
+      #john li{
+       color: red;
+       list-style: none;
+      }
+nav{
+    background-color: blueviolet; color: aqua;"
+}
